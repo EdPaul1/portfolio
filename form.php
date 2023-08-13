@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 
 if($_POST["message"]) {
@@ -13,4 +13,4 @@ $_POST["insert your message here"]. "From: devjoyann@gmail.com");
 }
 
 
-?>
+?> -->
